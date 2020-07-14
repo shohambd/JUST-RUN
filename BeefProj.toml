@@ -1,0 +1,6 @@
+FileVersion = 1
+
+[Project]
+Name = "JUST-RUN"
+TargetType = "BeefGUIApplication"
+StartupObject = "JUST-RUN.Program"
