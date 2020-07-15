@@ -1,7 +1,7 @@
 FileVersion = 1
 LastConfig = "Debug"
 LastPlatform = "Win64"
-RecentFilesList = ["c:\\Users\\admin\\Documents\\GitHub\\JUST-RUN\\src\\main.bf"]
+RecentFilesList = ["c:\\Users\\admin\\Documents\\GitHub\\JUST-RUNSBD\\src\\main.bf", "c:\\Users\\admin\\Documents\\GitHub\\JUST-RUN\\src\\main.bf"]
 
 [MainWindow]
 X = 64
@@ -46,8 +46,16 @@ Active = true
 TabLabel = "main.bf"
 TabWidth = 82.0
 Type = "SourceViewPanel"
-FilePath = "c:\\Users\\admin\\Documents\\GitHub\\JUST-RUN\\src\\main.bf"
+FilePath = "c:\\Users\\admin\\Documents\\GitHub\\JUST-RUNSBD\\src\\main.bf"
+CursorPos = 12
 ProjectName = "JUST-RUN"
+
+[[MainDockingFrame.DockedWidgets.DockedWidgets.Tabs]]
+TabLabel = "main.bf"
+TabWidth = 72.0
+Type = "SourceViewPanel"
+FilePath = "c:\\Users\\admin\\Documents\\GitHub\\JUST-RUN\\src\\main.bf"
+CursorPos = 12
 
 [[MainDockingFrame.DockedWidgets]]
 RequestedWidth = 375.0
